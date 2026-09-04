@@ -1,6 +1,6 @@
 <!-- Main Top PC GIF -->
 <div align="center">
-    <img width="auto" height="auto" alt="Image" src="https://github.com/user-attachments/assets/888a2cc7-948b-43af-af56-50fa54452288" />
+    <img width="500" height="250" alt="pinsnap-178736678958167096-story1" src="https://github.com/user-attachments/assets/be6af314-43fa-481a-9131-d6bbd80585b6" />
 </div>
 
 <div align="center">
