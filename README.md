@@ -24,3 +24,5 @@ Tools
 Workspace
 
 <p align="center"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows 11" height="28" /> </p></div>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=He-Trogati-Mne&theme=dark)
